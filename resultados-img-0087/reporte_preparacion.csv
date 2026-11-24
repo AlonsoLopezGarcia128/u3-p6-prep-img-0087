@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+carros,auto1.jpg,OK,783,391,224,224,0.0,1.0,APROBADA
+carros,auto2.jpg,OK,652,299,224,224,0.0,0.992,APROBADA
+carros,auto3.jpg,OK,720,480,224,224,0.0,1.0,APROBADA
+carros,auto4.jpg,OK,516,387,224,224,0.0,1.0,APROBADA
+carros,auto5.jpg,OK,677,453,224,224,0.0,1.0,APROBADA
+motocicletas,moto1.jpg,OK,547,365,224,224,0.0,1.0,APROBADA
+motocicletas,moto2.jpg,OK,739,415,224,224,0.0,0.996,APROBADA
+motocicletas,moto3.jpg,OK,622,350,224,224,0.0,1.0,APROBADA
+motocicletas,moto4.jpg,OK,399,501,224,224,0.0,1.0,APROBADA
+motocicletas,moto5.jpg,OK,399,501,224,224,0.0,1.0,APROBADA
